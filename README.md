@@ -6,7 +6,7 @@ The advanced queries are inside the app.js file, all of them have the comment //
 Triggers are in the Triggers.sql file and procedures and functions are in procedures&function.sql file.
 All other database queries are in the general.sql file.
 
-Project Description: 
+Project Description:
 
 It is a book website where one can buy, borrow and exchange books. There are also subscription and statistics related features.
 One can also login as bookshop,publisher or library. Books in the bookshops can be bought by or exchanged with the user, books in library can be borrowed by the user. The books published by the publisher can be bought by bookshops and libraries.
