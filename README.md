@@ -1,6 +1,6 @@
 # Database-Project-2-1
 
-This is our database project Literary Fables done by Debashmita Saha(2105098) and Azmain Apro(2105111).
+This is our database project Literary Fables done by Debashmita Saha(Roll: 2105098) and Azmain Apro(Roll: 2105111).
 It is a book website where one can buy, borrow and exchange books.
 
 The advanced queries are inside the app.js file, all of them have the comment //Advanced Query above them.
